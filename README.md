@@ -86,6 +86,20 @@ Provides a summary of sales, profit, and other important business metrics.
 - Dashboard Design
 - Data Analysis
 
+  ---
+
+# 🖼 Dashboard Screenshots
+
+## Sales Dashboard
+
+![Sales Dashboard](Dashboard%20Images/Your_Sales_Screenshot_Name.png)
+
+---
+
+## Profit Dashboard
+
+![Profit Dashboard](Dashboard%20Images/Your_Profit_Screenshot_Name.png)
+
 ---
 
 ## 📌 Conclusion
