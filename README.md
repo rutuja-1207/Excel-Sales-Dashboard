@@ -89,19 +89,6 @@ The workbook contains the following sheets:
 
   ---
 
-# 🖼 Dashboard Screenshots
-
-## Sales Dashboard
-
-![Sales Dashboard](Dashboard%20Images/Your_Sales_Screenshot_Name.png)
-
----
-
-## Profit Dashboard
-
-![Profit Dashboard](Dashboard%20Images/Your_Profit_Screenshot_Name.png)
-
----
 
 ## 📌 Conclusion
 
