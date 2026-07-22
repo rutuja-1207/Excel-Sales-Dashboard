@@ -52,16 +52,15 @@ The workbook contains the following sheets:
 ---
 ## Overview Dashboard
 
-### Overview Dashboard - Part 1
+## Overview Dashboard - Part 1
 
 ![Overview Dashboard 1](Dashboard%20Images/Overview%20Dashboard%201.png)
 
 ---
 
-### Overview Dashboard - Part 2
+## Overview Dashboard - Part 2
 
 ![Overview Dashboard 2](Dashboard%20Images/Overview%20Dashboard%202.png)
-
 ## 📈 Analysis Performed
 
 - Sales Analysis
