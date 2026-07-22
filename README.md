@@ -37,16 +37,17 @@ The workbook contains the following sheets:
 
 ---
 
-## 📊 Dashboard Pages
+# 🖼 Dashboard Screenshots
 
-### 📈 Sales Dashboard
-Displays overall sales performance using interactive charts and KPIs.
+## Sales Dashboard
 
-### 💰 Profit Dashboard
-Shows profit analysis, category-wise profit, and business performance.
+![Sales Dashboard](Dashboard%20Images/Sales%20Dashboard.png)
 
-### 📋 Overview Dashboard
-Provides a summary of sales, profit, and other important business metrics.
+---
+
+## Profit Dashboard
+
+![Profit Dashboard](Dashboard%20Images/Profit%20Dashboard.png)
 
 ---
 
